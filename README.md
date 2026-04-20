@@ -40,8 +40,3 @@ As a **Data Analyst at Shell Indonesia**, I was tasked with analyzing public con
 - Strengthen communication during operational disruptions  
 - Reinforce positive brand perception through targeted messaging  
 - Optimize fuel availability in high-demand locations  
-
-## Output
-- NLP-based sentiment & emotion analysis  
-- Topic modeling insights  
-- Actionable recommendations for brand strategy 
