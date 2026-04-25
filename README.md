@@ -29,10 +29,9 @@ As a **Data Analyst at Shell Indonesia**, I was tasked with analyzing public con
 - Topic Modeling (BERTopic)  
 
 ## Key Insights
-- Public discussions are centered on fuel quality, pricing, and availability across providers.  
-- Sentiment toward Shell is mostly positive, but negative sentiment still reflects ongoing public scrutiny.  
-- Shell is associated with higher “happiness”, while “anger” and “fear” remain present due to industry issues. Pertamina shows stronger association with negative emotions, especially anger.  
-- Key topics include fuel comparison, operational issues at stations, and public reactions to the incident.  
+- Sentiment toward Shell is predominantly positive, indicating a generally favorable brand perception. However, the presence of negative sentiment suggests ongoing public scrutiny and sensitivity toward fuel-related issues
+- Shell is more strongly associated with positive emotions such as happiness, reinforcing its relatively strong brand positioning, although the persistence of anger and fear highlights underlying concerns within the industry. In comparison, Pertamina is more heavily associated with negative emotions, particularly anger
+- Public discussions are largely centered on Public Reaction Fuel Issue, Station Operations Issues, and Fuel Price, Quality, & Usage Experience Comparison, suggesting that brand perception is highly influenced by functional performance and service experience.
 
 ## Recommendations
 - Improve customer experience at fuel stations (handling long queues, payment, and fueling process)  
