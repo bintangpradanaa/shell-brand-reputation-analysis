@@ -31,8 +31,7 @@ As a **Data Analyst at Shell Indonesia**, I was tasked with analyzing public con
 ## Key Insights
 - Public discussions are centered on fuel quality, pricing, and availability across providers.  
 - Sentiment toward Shell is mostly positive, but negative sentiment still reflects ongoing public scrutiny.  
-- Shell is associated with higher “happiness”, while “anger” and “fear” remain present due to industry issues.
-- Pertamina shows stronger association with negative emotions, especially anger.  
+- Shell is associated with higher “happiness”, while “anger” and “fear” remain present due to industry issues. Pertamina shows stronger association with negative emotions, especially anger.  
 - Key topics include fuel comparison, operational issues at stations, and public reactions to the incident.  
 
 ## Recommendations
